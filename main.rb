@@ -4,6 +4,6 @@ require 'pp'
 require './candidates'
 require './filters'
 
-## Your test code can go here
+
 
 pp @candidates
